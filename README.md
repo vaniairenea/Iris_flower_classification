@@ -1,7 +1,5 @@
 # 🌸 Iris Flower Classification 🌸
 
-![Iris Flower](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.png)
-
 ## 📖 Introduction
 The **Iris Flower Classification** project is a classic example of supervised machine learning. This project aims to classify iris flowers into three species: Setosa, Versicolour, and Virginica, based on the length and width of their sepals and petals.
 
